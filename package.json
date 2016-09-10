@@ -1,0 +1,23 @@
+{
+  "name": "hapi-university-viktor",
+  "version": "0.0.1",
+  "description": "My hapi course",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagyv/university.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagyv/university/issues"
+  },
+  "homepage": "https://github.com/nagyv/university#readme",
+  "dependencies": {
+    "hapi": "^15.0.3"
+  }
+}
